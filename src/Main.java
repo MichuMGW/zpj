@@ -57,7 +57,7 @@ import java.util.stream.*;
         System.out.println("\n Liczba książek każdego autora:");
         books.stream()
                 .collect(Collectors.groupingBy(Book::getAuthor, Collectors.counting()))
-                .forEach((a, c) -> System.out.println(a + " → " + c + " książki"));
+                .forEach((a, c) -> System.out.println(a + " - " + c + " książki"));
     }
 
     // Mapowanie
