@@ -1,0 +1,5 @@
+Władca Pierścieni;J.R.R. Tolkien;1954;49.99
+Hobbit;J.R.R. Tolkien;1937;39.99
+Harry Potter;J.K. Rowling;1997;45.5
+Inferno;Dan Brown;2013;32.0
+Kod Leonarda da Vinci;Dan Brown;2003;29.99
