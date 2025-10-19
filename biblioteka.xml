@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book><title>Władca Pierścieni</title><author>J.R.R. Tolkien</author><price>49.99</price><year>1954</year></book>
+<book><title>Hobbit</title><author>J.R.R. Tolkien</author><price>39.99</price><year>1937</year></book>
+<book><title>Harry Potter</title><author>J.K. Rowling</author><price>45.5</price><year>1997</year></book>
+<book><title>Inferno</title><author>Dan Brown</author><price>32.0</price><year>2013</year></book>
+<book><title>Kod Leonarda da Vinci</title><author>Dan Brown</author><price>29.99</price><year>2003</year></book>
+</books>
